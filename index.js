@@ -1,6 +1,6 @@
 'use strict';
 
-var TWITCH_WEBSOCKET_ADDR = 'ws://192.16.64.6:80';
+var TWITCH_WEBSOCKET_URL = 'ws://192.16.64.6:80';
 
 var EventEmitter2 = require('eventemitter2').EventEmitter2,
     util          = require('util'),
@@ -18,7 +18,7 @@ var TwitchChat = module.exports = function TwitchChat(channel) {
     this.channel = channel;
 
 
-    var ws = new WebSocket(TWITCH_WEBSOCKET_ADDR);
+    var ws = new WebSocket(TWITCH_WEBSOCKET_URL);
 
     ws.on('open', function () {
         // Connected to the WebSocket server, authenticate with the underlying IRC server
@@ -28,7 +28,7 @@ var TwitchChat = module.exports = function TwitchChat(channel) {
         ws.send('JOIN #' + self.channel);
     });
 
-    ws.on('content', function (data) {
+    ws.on('message', function (data) {
         if (data.indexOf('End of /NAMES list') !== -1) {
             // End of /NAMES list is the last content sent before you are considered as connected
             self.emit('connect');
@@ -36,16 +36,22 @@ var TwitchChat = module.exports = function TwitchChat(channel) {
             var message = parseChatMessage(data);
             if (message) {
                 self.emit('message', message.name, message.content);
+            } else {
+                console.log('Unknown message');
             }
         }
-    })
+    });
+
+    ws.on('close', function () {
+        console.log('Disconected');
+    });
 };
 
 // TwitchChat extends from EventEmitter2
 util.inherits(TwitchChat, EventEmitter2);
 
 // This regex is used to determine if a content is a chat content and to extract useful information out of it
-var chatRegex = /@color=(.*);display-name=(.*);emotes=(.*);subscriber=([0-9]*);turbo=([0-9]*);user-type=(.*)PRIVMSG #.* :(.*)/;
+var chatRegex = /@color=(.*);display-name=(.*);emotes=(.*);subscriber=([0-9]*);turbo=(.*);user-type=(.*)PRIVMSG #.* :(.*)/;
 
 /**
  * Parses a raw chat content

@@ -1,0 +1,686 @@
+false ':tmi.twitch.tv CAP * ACK :twitch.tv/tags twitch.tv/commands\r\n'
+false ':tmi.twitch.tv 001 justinfan898336 :Welcome, GLHF!\r\n'
+false ':tmi.twitch.tv 002 justinfan898336 :Your host is tmi.twitch.tv\r\n'
+false ':tmi.twitch.tv 003 justinfan898336 :This server is rather new\r\n'
+false ':tmi.twitch.tv 004 justinfan898336 :-\r\n'
+false ':tmi.twitch.tv 375 justinfan898336 :-\r\n'
+false ':tmi.twitch.tv 372 justinfan898336 :You are in a maze of twisty passages, all alike.\r\n'
+false ':tmi.twitch.tv 376 justinfan898336 :>\r\n'
+false ':justinfan898336!justinfan898336@justinfan898336.tmi.twitch.tv JOIN #monstercat\r\n'
+false ':justinfan898336.tmi.twitch.tv 353 justinfan898336 = #monstercat :justinfan898336\r\n'
+Connected
+false '@broadcaster-lang=;r9k=0;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #monstercat\r\n'
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'Giiantsharktooth, PogChamp LETS GO' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :Giiantsharktooth, PogChamp LETS GO\r\n'
+sonicbash206: Giiantsharktooth, PogChamp LETS GO
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'mcatTurnup' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :mcatTurnup\r\n'
+NickFrom711: mcatTurnup
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'mcatturn' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :mcatturn\r\n'
+NickFrom711: mcatturn
+{ color: '#0000FF',
+  name: 'ElementOxide',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :elementoxide!elementoxide@elementoxide.tmi.twitch.tv ',
+  content: '@NotoriousRose ROSE! <3' } '@color=#0000FF;display-name=ElementOxide;emotes=;subscriber=0;turbo=0;user-type= :elementoxide!elementoxide@elementoxide.tmi.twitch.tv PRIVMSG #monstercat :@NotoriousRose ROSE! <3\r\n'
+ElementOxide: @NotoriousRose ROSE! <3
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'mcatTurn' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :mcatTurn\r\n'
+NickFrom711: mcatTurn
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'mcatTurnt' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :mcatTurnt\r\n'
+NickFrom711: mcatTurnt
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: '!subscribe NickFrom711' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :!subscribe NickFrom711\r\n'
+sonicbash206: !subscribe NickFrom711
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'mcatTurnt is a sub emote' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :mcatTurnt is a sub emote\r\n'
+sonicbash206: mcatTurnt is a sub emote
+{ color: '#0000FF',
+  name: 'ElementOxide',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :elementoxide!elementoxide@elementoxide.tmi.twitch.tv ',
+  content: '@popsterfang hey ba' } '@color=#0000FF;display-name=ElementOxide;emotes=;subscriber=0;turbo=0;user-type= :elementoxide!elementoxide@elementoxide.tmi.twitch.tv PRIVMSG #monstercat :@popsterfang hey ba\r\n'
+ElementOxide: @popsterfang hey ba
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: '@Sonicbash206 I can\'t xD' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :@Sonicbash206 I can\'t xD\r\n'
+NickFrom711: @Sonicbash206 I can't xD
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'xD lol ok' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :xD lol ok\r\n'
+sonicbash206: xD lol ok
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'Dam' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :Dam\r\n'
+NickFrom711: Dam
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'xD' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :xD\r\n'
+NickFrom711: xD
+{ color: '#0000FF',
+  name: 'ElementOxide',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :elementoxide!elementoxide@elementoxide.tmi.twitch.tv ',
+  content: 'smexiest person here' } '@color=#0000FF;display-name=ElementOxide;emotes=;subscriber=0;turbo=0;user-type= :elementoxide!elementoxide@elementoxide.tmi.twitch.tv PRIVMSG #monstercat :smexiest person here\r\n'
+ElementOxide: smexiest person here
+{ color: '#0000FF',
+  name: 'ElementOxide',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :elementoxide!elementoxide@elementoxide.tmi.twitch.tv ',
+  content: 'get paid, get laid. gatorade.' } '@color=#0000FF;display-name=ElementOxide;emotes=;subscriber=0;turbo=0;user-type= :elementoxide!elementoxide@elementoxide.tmi.twitch.tv PRIVMSG #monstercat :get paid, get laid. gatorade.\r\n'
+ElementOxide: get paid, get laid. gatorade.
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'FUUUUUUU' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :FUUUUUUU\r\n'
+WalleFails: FUUUUUUU
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'IT\'S THE ASTRONAUT REMIX' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :IT\'S THE ASTRONAUT REMIX\r\n'
+WalleFails: IT'S THE ASTRONAUT REMIX
+{ color: '',
+  name: 'DonutIsALie',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :donutisalie!donutisalie@donutisalie.tmi.twitch.tv ',
+  content: 'BASSLINE CHICKEN' } '@color=;display-name=DonutIsALie;emotes=;subscriber=0;turbo=0;user-type= :donutisalie!donutisalie@donutisalie.tmi.twitch.tv PRIVMSG #monstercat :BASSLINE CHICKEN\r\n'
+DonutIsALie: BASSLINE CHICKEN
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'GED DEMMIT' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :GED DEMMIT\r\n'
+WalleFails: GED DEMMIT
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'Me: How do you stop a computer from too much memory The Computer: By Spending money on memory' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :Me: How do you stop a computer from too much memory The Computer: By Spending money on memory\r\n'
+NickFrom711: Me: How do you stop a computer from too much memory The Computer: By Spending money on memory
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'o-o' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :o-o\r\n'
+NickFrom711: o-o
+{ color: '',
+  name: 'DonutIsALie',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :donutisalie!donutisalie@donutisalie.tmi.twitch.tv ',
+  content: 'rip' } '@color=;display-name=DonutIsALie;emotes=;subscriber=0;turbo=0;user-type= :donutisalie!donutisalie@donutisalie.tmi.twitch.tv PRIVMSG #monstercat :rip\r\n'
+DonutIsALie: rip
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'TRIPLE ELECTRO BWOIS' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :TRIPLE ELECTRO BWOIS\r\n'
+sonicbash206: TRIPLE ELECTRO BWOIS
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'I PREDICTED ASTRONAUT riPepperonis BibleThump' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :I PREDICTED ASTRONAUT riPepperonis BibleThump\r\n'
+WalleFails: I PREDICTED ASTRONAUT riPepperonis BibleThump
+{ color: '',
+  name: 'UnshownSoul',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :unshownsoul!unshownsoul@unshownsoul.tmi.twitch.tv ',
+  content: 'macR' } '@color=;display-name=UnshownSoul;emotes=;subscriber=0;turbo=0;user-type= :unshownsoul!unshownsoul@unshownsoul.tmi.twitch.tv PRIVMSG #monstercat :macR\r\n'
+UnshownSoul: macR
+{ color: '',
+  name: 'UnshownSoul',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :unshownsoul!unshownsoul@unshownsoul.tmi.twitch.tv ',
+  content: 'mcaT' } '@color=;display-name=UnshownSoul;emotes=;subscriber=0;turbo=0;user-type= :unshownsoul!unshownsoul@unshownsoul.tmi.twitch.tv PRIVMSG #monstercat :mcaT\r\n'
+UnshownSoul: mcaT
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'xD' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :xD\r\n'
+sonicbash206: xD
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'I need Pegboard  nerds' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :I need Pegboard  nerds\r\n'
+NickFrom711: I need Pegboard  nerds
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'they are' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :they are\r\n'
+WalleFails: they are
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'they really are' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :they really are\r\n'
+WalleFails: they really are
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'Well he\'s not wrong' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :Well he\'s not wrong\r\n'
+sonicbash206: Well he's not wrong
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: '"messiah is trance/minimal" LEL YEAH RIGHT' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :"messiah is trance/minimal" LEL YEAH RIGHT\r\n'
+WalleFails: "messiah is trance/minimal" LEL YEAH RIGHT
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: '"Minimal"' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :"Minimal"\r\n'
+sonicbash206: "Minimal"
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'where did they get that from' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :where did they get that from\r\n'
+sonicbash206: where did they get that from
+false 'PING :tmi.twitch.tv\r\n'
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'but still' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :but still\r\n'
+sonicbash206: but still
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'I need Pegboard nerds' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :I need Pegboard nerds\r\n'
+NickFrom711: I need Pegboard nerds
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'oh wait' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :oh wait\r\n'
+NickFrom711: oh wait
+{ color: '#2E8B57',
+  name: 'GamingNinjaTV',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :gamingninjatv!gamingninjatv@gamingninjatv.tmi.twitch.tv ',
+  content: 'da nerds yay' } '@color=#2E8B57;display-name=GamingNinjaTV;emotes=;subscriber=0;turbo=0;user-type= :gamingninjatv!gamingninjatv@gamingninjatv.tmi.twitch.tv PRIVMSG #monstercat :da nerds yay\r\n'
+GamingNinjaTV: da nerds yay
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: '@Aerotron Whut?' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :@Aerotron Whut?\r\n'
+NickFrom711: @Aerotron Whut?
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: '@Aerotron, yes' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :@Aerotron, yes\r\n'
+WalleFails: @Aerotron, yes
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'Oh' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :Oh\r\n'
+NickFrom711: Oh
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'NightBat' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :NightBat\r\n'
+NickFrom711: NightBat
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: 'DOUBLE PBN' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :DOUBLE PBN\r\n'
+Tractionmainyt: DOUBLE PBN
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: '@Nanboii, are you saying you\'re nanobii? the monstercat nanobii?' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :@Nanboii, are you saying you\'re nanobii? the monstercat nanobii?\r\n'
+WalleFails: @Nanboii, are you saying you're nanobii? the monstercat nanobii?
+{ color: '',
+  name: 'DonutIsALie',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :donutisalie!donutisalie@donutisalie.tmi.twitch.tv ',
+  content: 'BADBOI' } '@color=;display-name=DonutIsALie;emotes=;subscriber=0;turbo=0;user-type= :donutisalie!donutisalie@donutisalie.tmi.twitch.tv PRIVMSG #monstercat :BADBOI\r\n'
+DonutIsALie: BADBOI
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'DOUBLE' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :DOUBLE\r\n'
+sonicbash206: DOUBLE
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'ANOTHER DOUBLE' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :ANOTHER DOUBLE\r\n'
+WalleFails: ANOTHER DOUBLE
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: 'THAT\'S THE 2ND ONE TODAY' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :THAT\'S THE 2ND ONE TODAY\r\n'
+WalleFails: THAT'S THE 2ND ONE TODAY
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'mcaT' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :mcaT\r\n'
+creeperpanda100: mcaT
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'I DID GUESSED IT' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :I DID GUESSED IT\r\n'
+NickFrom711: I DID GUESSED IT
+{ color: '',
+  name: 'DonutIsALie',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :donutisalie!donutisalie@donutisalie.tmi.twitch.tv ',
+  content: 'mcaT hypuuuuuuu' } '@color=;display-name=DonutIsALie;emotes=;subscriber=0;turbo=0;user-type= :donutisalie!donutisalie@donutisalie.tmi.twitch.tv PRIVMSG #monstercat :mcaT hypuuuuuuu\r\n'
+DonutIsALie: mcaT hypuuuuuuu
+{ color: '#005C46',
+  name: 'WalleFails',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :wallefails!wallefails@wallefails.tmi.twitch.tv ',
+  content: '@Nanboii, i suggest you stop. it\'s bannable.' } '@color=#005C46;display-name=WalleFails;emotes=;subscriber=1;turbo=0;user-type= :wallefails!wallefails@wallefails.tmi.twitch.tv PRIVMSG #monstercat :@Nanboii, i suggest you stop. it\'s bannable.\r\n'
+WalleFails: @Nanboii, i suggest you stop. it's bannable.
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: 'Giiantsharktooth,  i know' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :Giiantsharktooth,  i know\r\n'
+Tractionmainyt: Giiantsharktooth,  i know
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'DROP THE NIGGERS' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :DROP THE NIGGERS\r\n'
+creeperpanda100: DROP THE NIGGERS
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'Giiantsharktooth, oh bwoi' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :Giiantsharktooth, oh bwoi\r\n'
+sonicbash206: Giiantsharktooth, oh bwoi
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'BOOOM' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :BOOOM\r\n'
+creeperpanda100: BOOOM
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'DAT BASE DROP' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :DAT BASE DROP\r\n'
+creeperpanda100: DAT BASE DROP
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: 'Giant i\'ve been here for 3 hours' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :Giant i\'ve been here for 3 hours\r\n'
+Tractionmainyt: Giant i've been here for 3 hours
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: 'fite me' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :fite me\r\n'
+Tractionmainyt: fite me
+{ color: '#0000FF',
+  name: 'ElementOxide',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :elementoxide!elementoxide@elementoxide.tmi.twitch.tv ',
+  content: 'Half a year anniversary on Monday! <3' } '@color=#0000FF;display-name=ElementOxide;emotes=;subscriber=0;turbo=0;user-type= :elementoxide!elementoxide@elementoxide.tmi.twitch.tv PRIVMSG #monstercat :Half a year anniversary on Monday! <3\r\n'
+ElementOxide: Half a year anniversary on Monday! <3
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'Kreygasm' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :Kreygasm\r\n'
+creeperpanda100: Kreygasm
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'Giiantsharktooth, PogChamp PogChamp PogChamp' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :Giiantsharktooth, PogChamp PogChamp PogChamp\r\n'
+sonicbash206: Giiantsharktooth, PogChamp PogChamp PogChamp
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: 'too busy bulding a cactus farm on the SMP i play on OpieOP' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :too busy bulding a cactus farm on the SMP i play on OpieOP\r\n'
+Tractionmainyt: too busy bulding a cactus farm on the SMP i play on OpieOP
+{ color: '#FF0000',
+  name: 'Bertle_The_Turtle',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :bertle_the_turtle!bertle_the_turtle@bertle_the_turtle.tmi.twitch.tv ',
+  content: 'c' } '@color=#FF0000;display-name=Bertle_The_Turtle;emotes=;subscriber=0;turbo=0;user-type= :bertle_the_turtle!bertle_the_turtle@bertle_the_turtle.tmi.twitch.tv PRIVMSG #monstercat :i failed grade 11 math, so i have to take summer school :c\r\n'
+Bertle_The_Turtle: c
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'MrDestructoid I need pegboard nerds' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :MrDestructoid I need pegboard nerds\r\n'
+NickFrom711: MrDestructoid I need pegboard nerds
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: 'i don\'t know' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :i don\'t know\r\n'
+Tractionmainyt: i don't know
+{ color: '#ADEFFF',
+  name: 'Tractionmainyt',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv ',
+  content: '4banter' } '@color=#ADEFFF;display-name=Tractionmainyt;emotes=;subscriber=1;turbo=0;user-type= :tractionmainyt!tractionmainyt@tractionmainyt.tmi.twitch.tv PRIVMSG #monstercat :4banter\r\n'
+Tractionmainyt: 4banter
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'HERE IT CUMS' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :HERE IT CUMS\r\n'
+creeperpanda100: HERE IT CUMS
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'Kreygasm' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :Kreygasm\r\n'
+creeperpanda100: Kreygasm
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'OoOHOHO' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :OoOHOHO\r\n'
+creeperpanda100: OoOHOHO
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'lol' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :lol\r\n'
+Truth1400: lol
+false 'PING :tmi.twitch.tv\r\n'
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'DIS SONG IS SO SAD BibleThump BibleThump' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :DIS SONG IS SO SAD BibleThump BibleThump\r\n'
+creeperpanda100: DIS SONG IS SO SAD BibleThump BibleThump
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'YYYYYYYAAAYYy' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :YYYYYYYAAAYYy\r\n'
+Truth1400: YYYYYYYAAAYYy
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'FUTURE BASS! McatHeart' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :FUTURE BASS! McatHeart\r\n'
+Truth1400: FUTURE BASS! McatHeart
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'mcatHeart *' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :mcatHeart *\r\n'
+Truth1400: mcatHeart *
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'Hi tooth' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :Hi tooth\r\n'
+Truth1400: Hi tooth
+{ color: '#008000',
+  name: 'creeperpanda100',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv ',
+  content: 'LOL' } '@color=#008000;display-name=creeperpanda100;emotes=;subscriber=0;turbo=0;user-type= :creeperpanda100!creeperpanda100@creeperpanda100.tmi.twitch.tv PRIVMSG #monstercat :LOL\r\n'
+creeperpanda100: LOL
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'What if he like you Chibi MiniK' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :What if he like you Chibi MiniK\r\n'
+Truth1400: What if he like you Chibi MiniK
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'deIlluminati' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :deIlluminati\r\n'
+NickFrom711: deIlluminati
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'F' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :F\r\n'
+Truth1400: F
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'o_o' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :o_o\r\n'
+NickFrom711: o_o
+{ color: '#0077CC',
+  name: 'sonicbash206',
+  emotes: '',
+  subscriber: '1',
+  turbo: '1',
+  userType: ' :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv ',
+  content: 'mcatDarlington TaxiBro' } '@color=#0077CC;display-name=sonicbash206;emotes=;subscriber=1;turbo=1;user-type= :sonicbash206!sonicbash206@sonicbash206.tmi.twitch.tv PRIVMSG #monstercat :mcatDarlington TaxiBro\r\n'
+sonicbash206: mcatDarlington TaxiBro
+{ color: '#CC7BEF',
+  name: 'Truth1400',
+  emotes: '',
+  subscriber: '1',
+  turbo: '0',
+  userType: ' :truth1400!truth1400@truth1400.tmi.twitch.tv ',
+  content: 'lol' } '@color=#CC7BEF;display-name=Truth1400;emotes=;subscriber=1;turbo=0;user-type= :truth1400!truth1400@truth1400.tmi.twitch.tv PRIVMSG #monstercat :lol\r\n'
+Truth1400: lol
+{ color: '',
+  name: 'NickFrom711',
+  emotes: '',
+  subscriber: '0',
+  turbo: '0',
+  userType: ' :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv ',
+  content: 'a' } '@color=;display-name=NickFrom711;emotes=;subscriber=0;turbo=0;user-type= :nickfrom711!nickfrom711@nickfrom711.tmi.twitch.tv PRIVMSG #monstercat :a\r\n'
+NickFrom711: a

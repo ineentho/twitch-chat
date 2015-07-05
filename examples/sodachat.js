@@ -2,16 +2,17 @@
 
 var TwitchChat = require('..'); // require('twitch-chat') if downloading from npm
 
-var sodaChat = new TwitchChat('sodapoppin');
+var chat = new TwitchChat('monstercat');
+console.log('Joining the ' + chat.channel + ' chat channel...');
 
-sodaChat.on('connect', function () {
+chat.on('connect', function () {
     console.log('Connected');
 });
 
-sodaChat.on('disconnect', function () {
+chat.on('disconnect', function () {
     console.log('Disconnected');
 });
 
-sodaChat.on('message', function (user, message) {
+chat.on('message', function (user, message) {
     console.log(user + ': ' + message);
 });
